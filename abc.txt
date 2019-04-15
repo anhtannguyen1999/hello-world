@@ -4,3 +4,7 @@ Dev1.Ham1{
 as
 a
 }
+Dev2.Function1
+{
+	my name is dev 2
+}
