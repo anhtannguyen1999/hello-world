@@ -1,1 +1,6 @@
 aaaasasasas
+
+Dev2.Function1
+{
+	my name is dev 2
+}
